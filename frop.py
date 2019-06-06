@@ -1,3 +1,5 @@
+import os
+os.system('mode con: cols=95 lines=46')
 print("""
 sssssssssssssooooooooooooo++ooooosyyyhhhhhhhyyyhhhdhhyysssyhdddddddddddmddNNMMNM
 sssssssssssoooooooooooooooosyhddmmmmmmmmmmmmmmmmmmmmdddmmmddddddddddddddmdmNNMNM
